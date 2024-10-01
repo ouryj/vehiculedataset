@@ -38,4 +38,7 @@ if st.checkbox("Show Scatter_plot: Price vs Mileage"):
 if st.checkbox("Raw data"):
     st.write(filtered_df)
 
+#everything should b working fine now
+
+
 
